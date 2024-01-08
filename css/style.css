@@ -2,6 +2,7 @@
 #main-navbar {
   background-color: blue;
   overflow: hidden;
+    font-weight: 900;
 }
 
 #navbar-container {
@@ -47,6 +48,7 @@
   background-color: red;
   height: 100%;
   width: 20%;
+    font-weight: 900;
 }
 
 #sidebar ul {
